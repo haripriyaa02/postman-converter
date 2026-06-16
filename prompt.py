@@ -1,4 +1,4 @@
-#Old prompt (copy-pasted the function alone)
+#Simple Prompt (copy-pasted the function alone)
 
 def generate_script_v22(old_script, script_type):
     prompt = f'''

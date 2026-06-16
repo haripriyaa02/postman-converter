@@ -20,7 +20,7 @@
 
 ## PROMPTS:
 
-1. prompt
+1. prompt.py
 --> Simple and general conversion. No specified changes.
 
 2. old prompt.py
@@ -32,7 +32,11 @@
 4. gptpriorityprompt.py
 --> Strong with clear Rule definitions and Priorities for conversion.
 
-###
+### Note:
+
+The original code is from https://github.com/Rishwanth738/Postman-Converter 
+I modified only the prompt to get better accuracy after conversion and to get desired test outputs by optimizing and using different prompts. The prompts I used are given below - each prompt serves for specific accuracy level and based on the collection size. 
+I have also listed the changes I made with the prompt and test outputs.
 
 I have combined the last three prompts with clear explanations and priorities with Rule definitions in PostmanConverter.py --> Conversion is more stronger.
 
